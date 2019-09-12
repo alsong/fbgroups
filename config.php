@@ -1,8 +1,8 @@
 <?php 
 	session_start();
 
-	$appId = '381360626133280'; 
-	$appSecret = '7dfccb057dea3b78c9b84ae4f699a1f1';
+	$appId = '306186073657013'; 
+	$appSecret = '5768208cf15964e6c45c17ed4839bf1';
 	$requiredPermissions = 'public_profile, publish_actions, user_groups'; 
 	$redirectURL = 'https://fbgroupz.herokuapp.com'; // FB will redirect to this page with a code
  	
